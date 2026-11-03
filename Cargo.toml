@@ -1,0 +1,9 @@
+[package]
+name = "arch-browser-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-browser-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-browser-kernel"
+
+[dependencies]
